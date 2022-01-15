@@ -1,4 +1,4 @@
-# About
+# 关于我们
 
 ## Github
 ## [Industrimania](https://github.com/ShageJack/Industrimania)
