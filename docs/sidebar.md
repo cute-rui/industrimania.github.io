@@ -58,7 +58,7 @@
   - [石器时代](#)
     - [基础](#)
       - [自然资源](#)
-        - [黑陶土](zh-cn/Components/Primal%20Age/Basic/Nature%20Resource/黑陶土.md)
+        - [黑陶土](zh-cn/Components/Stone%20Age/Basic/Nature%20Resource/黑陶土.md)
       - [材料](#)
       - [工具](#)
       - [功能性方块](#)
