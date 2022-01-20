@@ -26,6 +26,7 @@
         - [碎骨片](zh-cn/Components/Primal%20Age/Basic/Material/碎骨片.md)
         - [燧石片](zh-cn/Components/Primal%20Age/Basic/Material/燧石片.md)
         - [土坯混合物](zh-cn/Components/Primal%20Age/Basic/Material/土坯混合物.md)
+        - [削尖的木棍](zh-cn/Components/Primal%20Age/Basic/Material/削尖的木棍.md)
         - [杂草搓绳](zh-cn/Components/Primal%20Age/Basic/Material/杂草搓绳.md)
         - [杂草纤维](zh-cn/Components/Primal%20Age/Basic/Material/杂草纤维.md)
         - [灼热砂砾](zh-cn/Components/Primal%20Age/Basic/Material/灼热砂砾.md)
