@@ -13,6 +13,7 @@
         - [河床盐](zh-cn/Components/Primal%20Age/Basic/Nature%20Resource/河床盐.md)
         - [蜡杨梅](zh-cn/Components/Primal%20Age/Basic/Nature%20Resource/蜡杨梅.md)
         - [橡胶树](zh-cn/Components/Primal%20Age/Basic/Nature%20Resource/橡胶树.md)
+        - [蚕](zh-cn/Components/Primal%20Age/Basic/Nature%20Resource/蚕.md)
       - [材料](#)
         - [蚕丝](zh-cn/Components/Primal%20Age/Basic/Material/蚕丝.md)
         - [泥砖](zh-cn/Components/Primal%20Age/Basic/Material/泥砖.md)
